@@ -1,1 +1,1 @@
-# SeleniumWebAutomation
+# Selenium Web Automation Project
