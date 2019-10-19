@@ -7,7 +7,7 @@ Site üzerinde gerçekleştirilen test senaryoları:
 - Login işlemi kontrol edilir.
 - Arama kutucuğuna bilgisayar kelimesi girilir.
 - Arama sonuçları sayfasından 2. sayfa açılır.
-- Syafa 2'nin açıldığı kontrol edilir.
+- Sayfa 2'nin açıldığı kontrol edilir.
 - Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir.
 - Seçilen ürün sepete eklenir.
 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu
