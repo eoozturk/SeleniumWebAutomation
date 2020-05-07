@@ -15,7 +15,7 @@ public class DemoTest {
 
     @Before
     public void setupDriver(){
-        System.setProperty("webdriver.gecko.driver","C:\\Users\\emreozanozturk\\IdeaProjects\\SeleniumApp\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver","C:\\Users\\"Your User"\\IdeaProjects\\SeleniumApp\\geckodriver.exe");
         driver = new FirefoxDriver();
         String url = "https://www.n11.com/";
         driver.get(url);
