@@ -31,11 +31,11 @@ public class DemoTest {
 
         WebElement mailbox= driver.findElement(By.id("email"));
         mailbox.click();
-        mailbox.sendKeys("deneme@hotmail.com");
+        mailbox.sendKeys("Your Mail Adress");
 
         WebElement password = driver.findElement(By.id("password"));
         password.click();
-        password.sendKeys("123456");
+        password.sendKeys("Your Password");
         driver.manage().timeouts().implicitlyWait(45, TimeUnit.SECONDS);
         driver.findElement(By.id("loginButton")).click();
     }
